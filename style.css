@@ -1,0 +1,12 @@
+.header{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+.nav-item{
+    font-family: 'Stick', sans-serif;
+    size: 1rem;
+    font-size: large;
+}
+
+
